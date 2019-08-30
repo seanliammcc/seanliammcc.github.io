@@ -59,7 +59,7 @@
 }
 
 /*Mobile Menu */
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
     .nav .chld {display: none;}
 
     .nav li {
@@ -71,7 +71,7 @@
     }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
     .navresponsive {position: relative;}
 
 .navresponsive ul {
@@ -100,7 +100,7 @@
 }
 }
 
-@media screen and (max-width: 800px) {
+@media screen and (max-width: 600px) {
     .donotdisplay {display: none;}
 
 }
