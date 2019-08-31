@@ -256,8 +256,7 @@
 @media screen and (max-width: 800px) {
     .contact-container {height: auto;}
     .contact-container img {
-        height: 300px;
-        width: 300px;
+        width: 100%;
         align: center;
         height: auto;
     }
