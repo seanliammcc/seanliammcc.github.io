@@ -270,6 +270,7 @@
 
      .contact-container img{
         width: 100%;
+        height: auto;
     }
     .contact-container h2 {
         text-align: center;
