@@ -256,9 +256,12 @@
     visibility: hidden;
 }
 
-.contact-container h2.position {
+.contact-container h3 {
+    padding-top: 0px;
+    margin: 0;
+    padding-bottom:0px;
     font-size: 12pt;
-    float: right;
+    font-weight: bold;
     color: grey;
 }
 
@@ -273,4 +276,7 @@
         margin-bottom: 0;
     }
 
+    .contact-container h3 {
+        text-align: center;
+    }
 }
