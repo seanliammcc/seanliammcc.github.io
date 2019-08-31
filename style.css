@@ -254,9 +254,13 @@
 
 /* Mobile COntact info Contact Info*/
 @media screen and (max-width: 800px) {
-    .contact-container {height: auto;}
+    .contact-container {
+        height: auto;
+        width: 100%;
+    }
     .contact-container img {
         width: 100%;
+        height: auto;
         align: center;
         height: auto;
     }
