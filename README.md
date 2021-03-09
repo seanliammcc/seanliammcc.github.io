@@ -1,1 +1,1 @@
-UCI's Computational Cognitive Neuroscience Lab demo website
+SeanLiam McCarthy's Projects
